@@ -82,7 +82,7 @@ You have the right to:
 - **Delete** your account and all associated data
 - **Withdraw consent** at any time
 
-To exercise these rights, contact us at: **kent@icu.ac.jp**
+To exercise these rights, contact us at: **kenttoyozumi9@gmail.com**
 
 ---
 
@@ -95,7 +95,7 @@ We may update this policy from time to time. If changes are significant, we will
 ## 10. Contact
 
 **Developer:** Kent Toyozumi
-**Email:** kent@icu.ac.jp
+**Email:** kenttoyozumi9@gmail.com
 **App:** ICUrriculum
 
 ---
